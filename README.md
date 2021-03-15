@@ -8,7 +8,7 @@
 
 :books: I'm a Front-End developer and student, and I'm always looking for knowledge.
 
-:earth_americas: Carioca in love with the IT area! I love to program, innovate, and share knowledge.
+:earth_americas: Carioca in love with the TI area! I love to program, innovate, and share knowledge.
 
 :computer: Being a developer is a journey where the next stop is the solution to a problem.
 
