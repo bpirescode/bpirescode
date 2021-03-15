@@ -13,10 +13,8 @@
 :computer: Being a developer is a journey where the next stop is the solution to a problem.
 
 
-
-
-    “Try once, twice, three times and if possible try the fourth, fifth and as many times
-     as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where the majority does not go, do what the majority does not do.” :thought_balloon: 
+“Try once, twice, three times and if possible try the fourth, fifth and as many times
+as necessary. Just don't give up in the first few attempts, persistence is a friend of conquest. If you want to get where the majority does not go, do what the majority does not do.” :thought_balloon: 
 
 
  # :pushpin: Languages:
